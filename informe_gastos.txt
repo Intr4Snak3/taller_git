@@ -1,3 +1,4 @@
 super 25000
 locomocion 24000
 combustible 20000
+longanizas 7400
