@@ -1,0 +1,3 @@
+super 25000
+locomocion 24000
+combustible 20000
