@@ -1,0 +1,2 @@
+chocolates 1000
+frutas 5000
